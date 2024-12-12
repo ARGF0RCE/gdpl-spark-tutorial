@@ -1,0 +1,7 @@
+---
+title: "Statistical Analysis with Statsmodels on Spark"
+---
+
+# Statsmodels Integration
+
+This section covers statistical analysis using statsmodels on Spark data.

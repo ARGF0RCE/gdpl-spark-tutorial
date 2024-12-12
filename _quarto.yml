@@ -1,0 +1,8 @@
+project:
+  type: book
+  title: "Spark Tutorial"
+  output-dir: docs
+format:
+  html:
+    theme: cosmo
+    number-sections: true

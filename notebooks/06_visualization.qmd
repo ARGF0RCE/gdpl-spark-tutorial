@@ -1,0 +1,7 @@
+---
+title: "Data Visualization with Spark"
+---
+
+# Visualization
+
+This section explores data visualization using matplotlib and plotly with Spark data.

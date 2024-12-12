@@ -1,0 +1,9 @@
+---
+title: "Setting Up Apache Spark"
+---
+
+# Introduction
+
+This section explains how to set up Apache Spark on your local machine.
+
+

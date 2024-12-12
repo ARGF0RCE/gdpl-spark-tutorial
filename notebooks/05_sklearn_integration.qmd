@@ -1,0 +1,7 @@
+---
+title: "Applying Scikit-Learn with Spark DataFrames"
+---
+
+# Scikit-Learn Integration
+
+This section demonstrates machine learning applications with Spark DataFrames.

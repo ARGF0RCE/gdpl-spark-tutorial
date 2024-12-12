@@ -1,0 +1,7 @@
+---
+title: "Understanding Spark Architecture"
+---
+
+# Spark Architecture
+
+This section describes the core components and architecture of Apache Spark.
