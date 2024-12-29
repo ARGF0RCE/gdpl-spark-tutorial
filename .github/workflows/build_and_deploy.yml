@@ -2,7 +2,7 @@ name: Deploy MkDocs to GitHub Pages
 
 on:
   push:
-    branches: [ "main" ]
+    branches: ["main"]
 
 jobs:
   build-deploy:
@@ -22,12 +22,6 @@ jobs:
           pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Build site
+      - name: Build site and deploy to GitHub Pages
         run: |
-          mkdocs build
-
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./site
+          mkdocs gh-deploy --force
