@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+*.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# MkDocs build
+site/
+.mkdocs/
+
+# Mac OS
+.DS_Store
+
+# Virtual env
+.env/
+
+# Other
+*.swp

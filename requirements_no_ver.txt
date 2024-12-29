@@ -1,0 +1,18 @@
+mkdocs
+mkdocs-material
+mkdocs-material-extensions
+mknotebooks
+
+# Spark & Python
+pyspark
+pandas
+numpy
+scikit-learn
+matplotlib
+plotly
+statsmodels
+
+# (Optional) For interactive notebook rendering or other uses
+ipython
+jupyter
+

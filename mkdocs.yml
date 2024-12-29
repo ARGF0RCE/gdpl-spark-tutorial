@@ -1,0 +1,35 @@
+site_name: "Apache Spark with PySpark"
+site_description: "A comprehensive code-first tutorial on using Apache Spark for large-scale data processing"
+site_author: "Aditya Ramesh"
+
+repo_url: "https://github.com/ARGF0RCE/gdpl-spark-tutorial"
+repo_name: "GitHub"
+
+theme:
+  name: "material"
+
+nav:
+  - Home: index.md
+  - Introduction: introduction.md
+  - Tutorial:
+      - "0. Introduction and Motivation": notebooks/00-introduction-and-motivation.ipynb
+      - "1. Setting Up Apache Spark": notebooks/01-setting-up-apache-spark.md
+      - "2. Spark Basics with PySpark": notebooks/02-spark-basics-with-pyspark.ipynb
+      - "3. Interfacing with Python Libraries": notebooks/03-interfacing-with-python-libraries.ipynb
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
+  - footnotes
+  - md_in_html
+  - tables
+  - attr_list
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+plugins:
+  - search
+  - mkdocs-jupyter
