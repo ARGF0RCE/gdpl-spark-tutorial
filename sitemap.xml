@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://argf0rce.github.io/gdpl-spark-tutorial/</loc>
+         <lastmod>2024-12-29</lastmod>
+    </url>
+    <url>
+         <loc>https://argf0rce.github.io/gdpl-spark-tutorial/introduction/</loc>
+         <lastmod>2024-12-29</lastmod>
+    </url>
+    <url>
+         <loc>https://argf0rce.github.io/gdpl-spark-tutorial/notebooks/00-introduction-and-motivation/</loc>
+         <lastmod>2024-12-29</lastmod>
+    </url>
+    <url>
+         <loc>https://argf0rce.github.io/gdpl-spark-tutorial/notebooks/01-setting-up-apache-spark/</loc>
+         <lastmod>2024-12-29</lastmod>
+    </url>
+    <url>
+         <loc>https://argf0rce.github.io/gdpl-spark-tutorial/notebooks/02-spark-basics-with-pyspark/</loc>
+         <lastmod>2024-12-29</lastmod>
+    </url>
+    <url>
+         <loc>https://argf0rce.github.io/gdpl-spark-tutorial/notebooks/03-interfacing-with-python-libraries/</loc>
+         <lastmod>2024-12-29</lastmod>
+    </url>
+</urlset>
