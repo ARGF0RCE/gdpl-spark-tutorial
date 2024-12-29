@@ -1,6 +1,7 @@
 site_name: "Apache Spark with PySpark"
 site_description: "A comprehensive code-first tutorial on using Apache Spark for large-scale data processing"
 site_author: "Aditya Ramesh"
+site_url: "https://argf0rce.github.io/gdpl-spark-tutorial/"
 
 repo_url: "https://github.com/ARGF0RCE/gdpl-spark-tutorial"
 repo_name: "GitHub"
